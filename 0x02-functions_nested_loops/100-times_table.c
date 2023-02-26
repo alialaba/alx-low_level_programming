@@ -1,10 +1,12 @@
 #include "main.h"
+
 /**
- * main -  print_times_table - prints the n times table, starting with 0
+ * main - check the code print_times_table - prints the n times table, starting with 0.
  * 
- * Resturn always success
+ * Return: always 0 success
  */
-	void print_times_table(int n)
+
+void print_times_table(int n)
 	{
 		int i, j, k;
 
@@ -46,4 +48,3 @@
 			}
 		}
 	}
-
